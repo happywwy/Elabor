@@ -1,0 +1,19 @@
+Generate some knowledge given the question. Examples:
+
+Question: Which would likely transfer special heat via waves?
+Knowledge: Radiation is when heat is transferred through waves. Radiation is made by certain bombs.
+
+Question: When standing miles away from Mount Rushmore
+Knowledge: As distance to an object increases, that object will appear smaller.
+
+Question: Ducks might their webbed appendages to
+Knowledge: Webbed feet are used for moving faster through water by aquatic animals.
+
+Question: Which would a strawberry most rely on to ensure it gets planted?
+Knowledge: Birds are a vehicle for spreading the seeds of a plant.
+
+Question: A typhoon can potentially cause
+Knowledge: A typhoon can bring a lot of rainfall. Heavy rains cause flooding.
+
+Question: {question}
+Knowledge:
